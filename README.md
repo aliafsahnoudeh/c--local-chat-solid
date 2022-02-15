@@ -31,7 +31,7 @@ Everything is decoupled by using interfaces and orchestrated by a central IOC co
 - By running this command you can run an instance of application:
 
 ```
-dotnet c-sharp-local-chat-solid.dll
+dotnet ./bin/Debug/netcoreapp3.1/c-sharp-local-chat-solid.dll
 ```
 
 ## Debugging
